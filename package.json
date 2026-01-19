@@ -19,7 +19,7 @@
     "@bablr/agast-vm-helpers": "0.10.0",
     "@bablr/boot": "0.11.0",
     "@bablr/helpers": "0.25.0",
-    "@bablr/language-en-bablr-vm-instruction": "0.11.0",
+    "@bablr/language-en-bablr-vm-instruction": "0.11.1",
     "@bablr/language-en-blank-space": "0.10.0",
     "@bablr/language-en-cstml": "0.12.0"
   },
